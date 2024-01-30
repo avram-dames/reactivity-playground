@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^4.4.9",
+    "vite-plugin-solid": "^2.7.0"
+  }
+}
