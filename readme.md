@@ -7,7 +7,7 @@ Fine-Grained Reactivity consists of 3 concepts:
 - Derivations
 - Effects
 
-![Reactivity Diagram](./Reactivity%20Diagram.png)
+![Reactivity Diagram](./diagrams/Reactivity%20Diagram.png)
 
 [source](https://frontendmasters.com/courses/reactivity-solidjs/reactivity-overview/)
 
@@ -30,7 +30,7 @@ we want `foo()` to run every time `val` updates.
 
 ### Solution
 
-![Reactivity Implementation](./Reactive%20System%20Implementation.png)
+![Reactivity Implementation](./diagrams/Reactive%20System%20Implementation.png)
 
 ```js
 let val = createSignal(1)
